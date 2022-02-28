@@ -18,7 +18,7 @@ ext {
             "recyclerview"                 : "androidx.recyclerview:recyclerview:1.1.0",
             "material"                     : "com.google.android.material:material:1.1.0",
             "room-runtime"                 : "androidx.room:room-runtime:2.2.3",
-            "room-rxjava2"                 : "android.arch.persistence.room:rxjava2:2.2.3",
+            "room-rxjava2"                 : "androidx.room:room-rxjava2:2.2.3",
             "room-compiler"                : "androidx.room:room-compiler:2.2.3",
             "multidex"                     : "androidx.multidex:multidex:2.0.1",
             "okhttp"                       : "com.squareup.okhttp3:okhttp:3.12.1",
